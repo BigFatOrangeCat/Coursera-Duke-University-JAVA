@@ -4,7 +4,7 @@
 
 *The First Week and the First Assignment of Week 2 I use BlueJ.* 
 
-*From the Second Assignment of Week 2 I started to use IDEA from jetBrain. *
+*From the Second Assignment of Week 2 I started to use IDEA from jetBrain.*
 
 *From the Week3 I turned to Eclipse and I use JEE Maven and Junit to bulid my system.*
 
